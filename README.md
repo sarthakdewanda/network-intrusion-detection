@@ -30,7 +30,7 @@ To set up this project, follow these steps:
    ```
 3. Open the main Python script using Jupyter Notebook:
    ```
-   python nid.ipynb
+   jupyter notebook nid.ipynb
    ```
  
 ## Usage
