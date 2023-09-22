@@ -28,9 +28,9 @@ To set up this project, follow these steps:
    ```
    pip install -r requirements.txt
    ```
-3. Open the main Python script:
+3. Open the main Python script using Jupyter Notebook:
    ```
-   python network_intrusion_detection.py
+   python nid.ipynb
    ```
  
 ## Usage
